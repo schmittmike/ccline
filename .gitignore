@@ -7,3 +7,4 @@
 
 # ignore ccline binary
 ccline
+*.out

@@ -1,0 +1,9 @@
+# ignore vim undo/backup/swapfiles
+*.swp
+*.un~
+
+# ignore c object files
+*.o
+
+# ignore ccline binary
+ccline
